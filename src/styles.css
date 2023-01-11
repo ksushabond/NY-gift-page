@@ -1,0 +1,19 @@
+.wrapper-1,
+.wrapper-2 {
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
+}
+.wrapper-1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+img {
+  max-width: 200 px;
+}
+.frame {
+  background-color: antiquewhite;
+  padding: auto;
+  margin: 10px;
+  border: 5px solid olivedrab;
+}
